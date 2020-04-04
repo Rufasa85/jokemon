@@ -1,0 +1,23 @@
+{
+  "name": "jokemon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rufasa85/jokemon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rufasa85/jokemon/issues"
+  },
+  "homepage": "https://github.com/Rufasa85/jokemon#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
