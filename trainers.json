@@ -1,0 +1,92 @@
+[
+	{
+		"name": "joe",
+		"pokemon": [
+			{
+				"name": "charmander",
+				"level": 1,
+				"strength": 5,
+				"hp": 25,
+				"type": "fire",
+				"weakness": "water"
+			}
+		],
+		"activePokemon": {
+			"name": "charmander",
+			"level": 1,
+			"strength": 5,
+			"hp": 25,
+			"type": "fire",
+			"weakness": "water"
+		}
+	},
+	{
+		"name": "denis",
+		"pokemon": [],
+		"activePokemon": false
+	},
+	{
+		"name": "clint",
+		"pokemon": [
+			{
+				"name": "idk",
+				"level": 1,
+				"strength": 2,
+				"hp": 3,
+				"type": "normal"
+			}
+		],
+		"activePokemon": {
+			"name": "idk",
+			"level": 1,
+			"strength": 2,
+			"hp": 3,
+			"type": "normal"
+		}
+	},
+	{
+		"name": "arra",
+		"pokemon": [
+			{
+				"name": "snorlax",
+				"level": 3,
+				"strength": 30,
+				"hp": 400,
+				"type": "normal"
+			}
+		],
+		"activePokemon": {
+			"name": "snorlax",
+			"level": 3,
+			"strength": 30,
+			"hp": 400,
+			"type": "normal"
+		}
+	},
+	{
+		"name": "bob",
+		"pokemon": [
+			{
+				"name": "dasf",
+				"level": 1,
+				"strength": 2,
+				"hp": 3,
+				"type": "fire",
+				"weakness": "water"
+			}
+		],
+		"activePokemon": {
+			"name": "dasf",
+			"level": 1,
+			"strength": 2,
+			"hp": 3,
+			"type": "fire",
+			"weakness": "water"
+		}
+	},
+	{
+		"name": "billy",
+		"pokemon": [],
+		"activePokemon": false
+	}
+]
